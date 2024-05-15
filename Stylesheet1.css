@@ -1,0 +1,28 @@
+h1,h2,h3 {
+    background-color: rgb(215, 241, 233);
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+a{
+    background-color: rgb(198, 234, 244);
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    border-style: dotted;
+}
+
+ p{
+    background-color: aliceblue;
+    margin: 2px;
+    text-align: center; 
+    padding: 15px; 
+    border-radius: 15px;
+    font-style: italic;}
+
+ ul{
+    list-style: none;
+    text-align: center; 
+ }

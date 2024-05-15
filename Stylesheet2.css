@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+   }
+
+   h1,
+   h2,
+   h3  {
+     border-style: dotted;
+     text-align: center;
+     padding: 30px 20px;}
+   a{
+     background-color: rgb(219, 215, 215);
+     padding: 15px 20px;
+     border-radius: 9px;}
+
+   div ul{
+     border-radius: 20px;
+     width: auto;
+     height: 190px;
+     background: url('https://images.pexels.com/photos/295826/pexels-photo-295826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') 1800px  ;
+     list-style: none;}
+
+ ul{
+     padding: 20px;
+     text-align: center;
+ }
